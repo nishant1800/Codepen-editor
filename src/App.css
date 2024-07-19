@@ -1,0 +1,28 @@
+
+
+* {
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    /* font-weight: 600;
+    font-style: normal;
+    font-size: medium; */
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff;
+    overflow-x: hidden;
+}
+
+.CodeMirror {
+    height: 340px !important;
+    color: #fff;
+}
+
+.CodeMirror-scroll {
+    background: #1d1d22;
+
+}
